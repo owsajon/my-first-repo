@@ -1,0 +1,14 @@
+
+.d1{
+    color: darkslateblue;
+    background-color: black;
+    font-size: 24px;
+    border: 30px solid yellow;
+    border-radius: 30px;
+    margin: 20px 30px;
+    padding: 20px 30px;
+    text-align: justify;
+}
+.c1{
+    text-align: center;
+}
